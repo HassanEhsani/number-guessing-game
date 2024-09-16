@@ -30,6 +30,8 @@ while True:
         break
     else:
         print("You got a wrong!")
+        
+print("You got it in", guesses, "guesses")
   
        
     
